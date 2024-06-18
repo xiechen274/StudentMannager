@@ -1,0 +1,11 @@
+INSERT INTO `students` (`id`, `student_id`, `name`, `gender`, `birth_date`, `class`) VALUES (1, 'S00001', 'Alice', 'F', '2000-01-01', '1');
+INSERT INTO `students` (`id`, `student_id`, `name`, `gender`, `birth_date`, `class`) VALUES (2, 'S00002', 'Bob', 'M', '2001-02-01', '1');
+INSERT INTO `students` (`id`, `student_id`, `name`, `gender`, `birth_date`, `class`) VALUES (3, 'S00003', 'Charlie', 'M', '2000-03-01', '2');
+INSERT INTO `students` (`id`, `student_id`, `name`, `gender`, `birth_date`, `class`) VALUES (4, 'S00004', 'David', 'M', '2001-04-01', '2');
+INSERT INTO `students` (`id`, `student_id`, `name`, `gender`, `birth_date`, `class`) VALUES (5, 'S00005', 'Eve', 'F', '2000-05-01', '2');
+INSERT INTO `students` (`id`, `student_id`, `name`, `gender`, `birth_date`, `class`) VALUES (6, 'S00006', 'Frank', 'M', '2001-06-01', '3');
+INSERT INTO `students` (`id`, `student_id`, `name`, `gender`, `birth_date`, `class`) VALUES (7, 'S00007', 'Grace', 'F', '2000-07-01', '3');
+INSERT INTO `students` (`id`, `student_id`, `name`, `gender`, `birth_date`, `class`) VALUES (8, 'S00008', 'Heidi', 'F', '2001-08-01', '3');
+INSERT INTO `students` (`id`, `student_id`, `name`, `gender`, `birth_date`, `class`) VALUES (9, 'S00009', 'Ivan', 'M', '2000-09-01', '3');
+INSERT INTO `students` (`id`, `student_id`, `name`, `gender`, `birth_date`, `class`) VALUES (10, 'S00010', 'Judy', 'F', '2001-10-01', '3');
+INSERT INTO `students` (`id`, `student_id`, `name`, `gender`, `birth_date`, `class`) VALUES (11, 'S00011', 'xielongjie', 'M', '2004-02-09', '3');

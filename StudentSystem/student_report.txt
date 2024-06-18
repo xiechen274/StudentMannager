@@ -1,0 +1,11 @@
+{studentId=S00011, Java=100.0, JavaClassAverage=89.16666666666667, name=xielongjie, MathClassAverage=82.8, totalScore=100.0, PEClassAverage=78.6, studentClass=3, averageScore=100.0}
+{studentId=S00007, Java=92.0, JavaClassAverage=89.16666666666667, PE=89.0, name=Grace, MathClassAverage=82.8, Math=95.0, totalScore=276.0, PEClassAverage=78.6, studentClass=3, averageScore=92.0}
+{studentId=S00003, Java=95.0, JavaClassAverage=85.33333333333333, PE=82.0, name=Charlie, MathClassAverage=81.33333333333333, Math=88.0, totalScore=265.0, PEClassAverage=82.33333333333333, studentClass=2, averageScore=88.33333333333333}
+{studentId=S00005, Java=85.0, JavaClassAverage=85.33333333333333, PE=80.0, name=Eve, MathClassAverage=81.33333333333333, Math=90.0, totalScore=255.0, PEClassAverage=82.33333333333333, studentClass=2, averageScore=85.0}
+{studentId=S00010, Java=88.0, JavaClassAverage=89.16666666666667, PE=82.0, name=Judy, MathClassAverage=82.8, Math=85.0, totalScore=255.0, PEClassAverage=78.6, studentClass=3, averageScore=85.0}
+{studentId=S00001, Java=90.0, JavaClassAverage=85.0, PE=75.0, name=Alice, MathClassAverage=77.5, Math=85.0, totalScore=250.0, PEClassAverage=67.5, studentClass=1, averageScore=83.33333333333333}
+{studentId=S00009, Java=85.0, JavaClassAverage=89.16666666666667, PE=78.0, name=Ivan, MathClassAverage=82.8, Math=80.0, totalScore=243.0, PEClassAverage=78.6, studentClass=3, averageScore=81.0}
+{studentId=S00006, Java=88.0, JavaClassAverage=89.16666666666667, PE=70.0, name=Frank, MathClassAverage=82.8, Math=76.0, totalScore=234.0, PEClassAverage=78.6, studentClass=3, averageScore=78.0}
+{studentId=S00008, Java=82.0, JavaClassAverage=89.16666666666667, PE=74.0, name=Heidi, MathClassAverage=82.8, Math=78.0, totalScore=234.0, PEClassAverage=78.6, studentClass=3, averageScore=78.0}
+{studentId=S00004, Java=76.0, JavaClassAverage=85.33333333333333, PE=85.0, name=David, MathClassAverage=81.33333333333333, Math=66.0, totalScore=227.0, PEClassAverage=82.33333333333333, studentClass=2, averageScore=75.66666666666667}
+{studentId=S00002, Java=80.0, JavaClassAverage=85.0, PE=60.0, name=Bob, MathClassAverage=77.5, Math=70.0, totalScore=210.0, PEClassAverage=67.5, studentClass=1, averageScore=70.0}
